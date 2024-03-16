@@ -39,7 +39,7 @@
         android:id="@+id/product_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="24sp"
+        android:textSize="28sp"
         android:textStyle="bold"
         android:layout_marginTop="16dp"
         tools:text="Smart TV" />
@@ -81,7 +81,7 @@
         android:id="@+id/product_details_title"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="20sp"
+        android:textSize="28sp"
         android:textStyle="bold"
         android:layout_marginTop="16dp"
         android:text="@string/product_details" />
@@ -90,13 +90,14 @@
         android:id="@+id/product_full_description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textSize="20sp"
         tools:text="Watch full hd and 4k movies and series in this latest model." />
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/in_stock"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="16sp"
+        android:textSize="20sp"
         android:textColor="#00695C"
         android:layout_marginBottom="4dp"
         android:text="@string/in_stock" />
@@ -107,7 +108,7 @@
         android:layout_height="56dp"
         app:cornerRadius="6dp"
         android:text="@string/add_to_cart"
-        android:backgroundTint="#FFC805"
+        android:backgroundTint="#F5D948"
         android:textColor="@color/black"
         android:layout_marginBottom="4dp"
         />
@@ -118,7 +119,7 @@
         android:layout_height="56dp"
         app:cornerRadius="6dp"
         android:text="@string/buy_now"
-        android:backgroundTint="#FD8421"
+        android:backgroundTint="#F9A82E"
         android:textColor="@color/black"
         />
 
