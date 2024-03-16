@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat-resources:1.5.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../electric-vehicle-sharing/app/caches/transforms-3/6402ed559c286f9cb01c9f0f7da4fb1a/transformed/appcompat-resources-1.5.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../electric-vehicle-sharing/app/caches/transforms-3/6402ed559c286f9cb01c9f0f7da4fb1a/transformed/appcompat-resources-1.5.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../electric-vehicle-sharing/app/caches/transforms-3/6402ed559c286f9cb01c9f0f7da4fb1a/transformed/appcompat-resources-1.5.0-beta01/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../electric-vehicle-sharing/app/caches/modules-2/files-2.1/androidx.appcompat/appcompat-resources/1.5.0-beta01/fb65e13b11cb4391567e748e9ab7f27a64601039/appcompat-resources-1.5.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
