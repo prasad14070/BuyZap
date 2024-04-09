@@ -1,5 +1,5 @@
 
-# BuyZapp
+# BuyZap
 "BuyZap is an AR Ecommerce Application ,Revolutionizing retail with AR innovation, our project aims to foster inclusivity, enhance size selection precision, and provide accessible virtual try-ons. Overcoming geographical shopping constraints, we drive customer-centric innovation through cost-efficient AR solutions, scalable design, and iterative development."
 
 ## Problem Statement:
